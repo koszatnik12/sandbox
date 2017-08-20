@@ -1,0 +1,27 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "pierwsza strona",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koszatnik12/sandbox.git"
+  },
+  "keywords": [
+    "words",
+    "english"
+  ],
+  "author": "Marta Pałczyńska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koszatnik12/sandbox/issues"
+  },
+  "homepage": "https://github.com/koszatnik12/sandbox#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
