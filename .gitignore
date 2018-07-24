@@ -1,2 +1,2 @@
 node_modules/*
-dest/*
+npm-debug.log.[0-9]+
